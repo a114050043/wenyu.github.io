@@ -1,0 +1,11 @@
+:root{
+    --bs-primary-rgb:167, 199, 231;
+    --bs-link-color:rgb(167, 199, 231);
+    --bs-link-color:rgb(167, 199, 231);
+    .social-icons .social-icon:hover {
+      background-color: rgb(167, 199, 231);
+}
+.resume-section{
+    background-color: #fdf5e6;
+    background-image: url('../assets/img/absurdity.png');
+}
